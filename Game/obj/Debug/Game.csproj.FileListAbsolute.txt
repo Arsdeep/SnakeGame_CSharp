@@ -1,0 +1,8 @@
+C:\Users\arsgu\source\repos\Game\Game\bin\Debug\Game.exe.config
+C:\Users\arsgu\source\repos\Game\Game\bin\Debug\Game.exe
+C:\Users\arsgu\source\repos\Game\Game\bin\Debug\Game.pdb
+C:\Users\arsgu\source\repos\Game\Game\obj\Debug\Game.csproj.AssemblyReference.cache
+C:\Users\arsgu\source\repos\Game\Game\obj\Debug\Game.csproj.SuggestedBindingRedirects.cache
+C:\Users\arsgu\source\repos\Game\Game\obj\Debug\Game.csproj.CoreCompileInputs.cache
+C:\Users\arsgu\source\repos\Game\Game\obj\Debug\Game.exe
+C:\Users\arsgu\source\repos\Game\Game\obj\Debug\Game.pdb

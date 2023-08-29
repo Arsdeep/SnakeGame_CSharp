@@ -1,0 +1,13 @@
+C:\Users\arsgu\source\repos\Game\Game\obj\Release\Snake.csproj.AssemblyReference.cache
+C:\Users\arsgu\source\repos\Game\Game\obj\Release\Snake.csproj.SuggestedBindingRedirects.cache
+C:\Users\arsgu\source\repos\Game\Game\obj\Release\Snake.csproj.CoreCompileInputs.cache
+C:\Users\arsgu\source\repos\Game\Game\bin\Release\Snake.exe.config
+C:\Users\arsgu\source\repos\Game\Game\bin\Release\Snake.exe.manifest
+C:\Users\arsgu\source\repos\Game\Game\bin\Release\Snake.application
+C:\Users\arsgu\source\repos\Game\Game\bin\Release\Snake.exe
+C:\Users\arsgu\source\repos\Game\Game\bin\Release\Snake.pdb
+C:\Users\arsgu\source\repos\Game\Game\obj\Release\Snake.TrustInfo.xml
+C:\Users\arsgu\source\repos\Game\Game\obj\Release\Snake.exe.manifest
+C:\Users\arsgu\source\repos\Game\Game\obj\Release\Snake.application
+C:\Users\arsgu\source\repos\Game\Game\obj\Release\Snake.exe
+C:\Users\arsgu\source\repos\Game\Game\obj\Release\Snake.pdb

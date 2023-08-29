@@ -1,0 +1,13 @@
+C:\Users\arsgu\source\repos\Game\Game\bin\Release\Game.exe.config
+C:\Users\arsgu\source\repos\Game\Game\bin\Release\Game.exe
+C:\Users\arsgu\source\repos\Game\Game\bin\Release\Game.pdb
+C:\Users\arsgu\source\repos\Game\Game\obj\Release\Game.csproj.AssemblyReference.cache
+C:\Users\arsgu\source\repos\Game\Game\obj\Release\Game.csproj.SuggestedBindingRedirects.cache
+C:\Users\arsgu\source\repos\Game\Game\obj\Release\Game.csproj.CoreCompileInputs.cache
+C:\Users\arsgu\source\repos\Game\Game\obj\Release\Game.exe
+C:\Users\arsgu\source\repos\Game\Game\obj\Release\Game.pdb
+C:\Users\arsgu\source\repos\Game\Game\bin\Release\Game.exe.manifest
+C:\Users\arsgu\source\repos\Game\Game\bin\Release\Game.application
+C:\Users\arsgu\source\repos\Game\Game\obj\Release\Game.TrustInfo.xml
+C:\Users\arsgu\source\repos\Game\Game\obj\Release\Game.exe.manifest
+C:\Users\arsgu\source\repos\Game\Game\obj\Release\Game.application

@@ -1,0 +1,13 @@
+C:\Users\arsgu\source\repos\Game\Game\bin\Debug\Game.exe.config
+C:\Users\arsgu\source\repos\Game\Game\bin\Debug\Game.exe.manifest
+C:\Users\arsgu\source\repos\Game\Game\bin\Debug\Game.application
+C:\Users\arsgu\source\repos\Game\Game\bin\Debug\Game.exe
+C:\Users\arsgu\source\repos\Game\Game\bin\Debug\Game.pdb
+C:\Users\arsgu\source\repos\Game\Game\obj\Debug\Snake.csproj.AssemblyReference.cache
+C:\Users\arsgu\source\repos\Game\Game\obj\Debug\Snake.csproj.SuggestedBindingRedirects.cache
+C:\Users\arsgu\source\repos\Game\Game\obj\Debug\Snake.csproj.CoreCompileInputs.cache
+C:\Users\arsgu\source\repos\Game\Game\obj\Debug\Game.TrustInfo.xml
+C:\Users\arsgu\source\repos\Game\Game\obj\Debug\Game.exe.manifest
+C:\Users\arsgu\source\repos\Game\Game\obj\Debug\Game.application
+C:\Users\arsgu\source\repos\Game\Game\obj\Debug\Game.exe
+C:\Users\arsgu\source\repos\Game\Game\obj\Debug\Game.pdb
